@@ -1,4 +1,4 @@
-Ringkasan dari "Boot Camp #2 Programming":
+#Ringkasan dari "Boot Camp #2 Programming":
 1. Pengenalan Divisi Pemrograman:
 Divisi Pemrograman bertanggung jawab untuk memberikan "otak" pada robot.
 

@@ -52,5 +52,5 @@ void loop() {
   delay(1000);  
 }
 
-//link 180
+//link 180 ( Mohon maaf late karena update link wokwi servo ini, yang awal salah link, terima kasih)
 https://wokwi.com/projects/430768119053708289
